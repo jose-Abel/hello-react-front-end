@@ -1,6 +1,7 @@
 # Hello React Frontend
 
 
+
 ## Built With
 
 - React
@@ -57,17 +58,10 @@ To run the CSS linters type the following
     npx stylelint "**/*.{css,scss}"
 ```
 
-## Authors
-
-### Author: Jose Abel Ramirez Frontany\*\*
+## Author: Jose Abel Ramirez Frontany\*\*
 
 - GitHub: [Jose Abel Ramirez Frontany](https://github.com/jose-Abel)
 - Linkedin: [Jose Abel Ramirez Frontany](www.linkedin.com/in/joseabelramirezfrontany)
-
-### Author: Enmanuel Lassis \*\*
-
-- GitHub: [Enmanuel Lassis](https://github.com/elassis)
-- Linkedin: [Enmanuel Lassis](https://www.linkedin.com/in/enmanuel-lassis-pe%C3%B1a/)
 
 ## 🤝 Contributing
 
